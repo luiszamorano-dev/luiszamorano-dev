@@ -58,7 +58,7 @@ Todas mis certificaciones han sido obtenidas a través de [Código Facilito](htt
 
 Estoy abierto a colaborar, integrarme a proyectos o aplicar a oportunidades laborales.  
 📩 sonic4.zamo@gmail.com  
-📱 +56 9 6401 8986  
+📱 +56964018986  
 🔗 [LinkedIn](https://www.linkedin.com/in/luiszamorano-dev)
 
 ---
