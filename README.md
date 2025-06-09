@@ -22,7 +22,7 @@ Aplicación web desarrollada con **Flask** y **React** para almacenar y gestiona
 - Detección y autocompletado de credenciales
 - Seguridad avanzada con PIN y cifrado Fernet
 
-🔗 [Ver repositorio](https://github.com/luiszamorano-dev)
+🔗 [Ver repositorio](https://github.com/luiszamorano-dev/password-manager)
 
 ---
 
@@ -95,7 +95,7 @@ Todas mis certificaciones han sido obtenidas a través de [Código Facilito](htt
 
 ## 🤝 ¿Quieres contactarme?
 
-Estoy abierto a colaborar, integrarme a proyectos o aplicar a oportunidades laborales.  
+Estoy abierto a integrarme a proyectos o aplicar a oportunidades laborales.  
 📩 sonic4.zamo@gmail.com  
 📱 +56964018986  
 🔗 [LinkedIn](https://www.linkedin.com/in/luiszamorano-dev)
