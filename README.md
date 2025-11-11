@@ -85,18 +85,39 @@ Aplicación web desarrollada con **Flask** y **React** para almacenar y gestiona
 
 Todas mis certificaciones han sido obtenidas a través de [Código Facilito](https://codigofacilito.com):
 
-- Curso Profesional de Java  
-- Curso Profesional de Angular  
-- Curso Profesional de React  
-- Curso Profesional de Node.js  
-- Curso de Aplicaciones con Inteligencia Artificial (C# y Azure)
+- Curso Profesional de Java
+- Curso Profesional de Base de Datos
+- Curso Profesional de C++
+- Curso Profesional de CSS
+- Curso Profesional de Dart
+- Curso Profesional de Docker
+- Curso Profesional de Flutter
+- Curso Profesional de Git
+- Curso Profesional de Laravel
+- Curso Profesional de PHP 8
+- Curso Profesional de Python
+- Curso Profesional de Ruby on Rails
+- Curso Profesional de Aplicaciones con Inteligencia Artificial (C# y Azure)
+- Curso Profesional de Angular
+- Curso Profesional de React
+- Curso Profesional de Node.js
+- Curso de Kotlin Avanzado
+- Curso de Machine Learning con ScikitLearn
+- Curso de fundamentos de Azure
+- Curso de ingeniería de prompts
+- Curso de metodologías para solución de problemas
+- Curso de Introducción a DevOps (Bases y Conceptos)
+- Curso Apps de Inteligencia Artificial con C# y Azure
+- Curso a fondo de Flexbox y Grid
+- Curso a fondo de GitHub
+- Curso para integrar React con Firebase
 
 ---
 
 ## 🤝 ¿Quieres contactarme?
 
 Estoy abierto a integrarme a proyectos o aplicar a oportunidades laborales.  
-📩 sonic4.zamo@gmail.com  
+📩 luis.zamorano.dev@gmail.com  
 📱 +56964018986  
 🔗 [LinkedIn](https://www.linkedin.com/in/luiszamorano-dev)
 
