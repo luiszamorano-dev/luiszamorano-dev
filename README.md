@@ -29,6 +29,9 @@ Aplicación web desarrollada con **Flask** y **React** para almacenar y gestiona
 ## 🧠 Tecnologías y Herramientas
 
 <!-- Lenguajes -->
+## 🧠 Tecnologías y Herramientas
+
+<!-- Lenguajes -->
 <h3>🧠 Lenguajes de Programación</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
@@ -57,7 +60,7 @@ Aplicación web desarrollada con **Flask** y **React** para almacenar y gestiona
 <h3>🔙 Backend y Frameworks</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" title="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" title="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" title="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" title="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" title="Ruby on Rails" />
@@ -76,7 +79,7 @@ Aplicación web desarrollada con **Flask** y **React** para almacenar y gestiona
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" title="Microsoft Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devops/devops-original.svg" height="40" title="DevOps" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" title="GitHub Actions (DevOps)" />
 </p>
 
 <!-- Herramientas -->
