@@ -29,9 +29,6 @@ Aplicación web desarrollada con **Flask** y **React** para almacenar y gestiona
 ## 🧠 Tecnologías y Herramientas
 
 <!-- Lenguajes -->
-## 🧠 Tecnologías y Herramientas
-
-<!-- Lenguajes -->
 <h3>🧠 Lenguajes de Programación</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
